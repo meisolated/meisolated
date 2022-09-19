@@ -16,11 +16,6 @@
 
 [<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&label=ISoLateD%235163&logoColor=FFFFFF&color=2f3136" />](https://discordapp.com/users/923992387875913768)
 
-### Languages & Tools
-<a href="#">
-  <img align="center" alt="top-langs" src="https://github-readme-stats-ec95gdbim-spoopytim.vercel.app/api/top-langs?username=meisolated&hide_border=true&show_icons=true&locale=en&bg_color=313842&text_color=fff&title_color=fff&border_color=000&icon_color=50fa7b&layout=compact" />
-</a>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
