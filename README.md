@@ -16,7 +16,6 @@
 
 [<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&label=ISoLateD%235163&logoColor=FFFFFF&color=2f3136" />](https://discordapp.com/users/923992387875913768)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meisolated&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 [<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />](https://www.javascript.com/)
